@@ -57,4 +57,3 @@ Note: In the absence of historical data, the macro does not produce the table fo
 Running Time for BSMED
 
 It may take about 2 hours to run this macro for 5,000 simulated datasets.
-![image](https://github.com/GYJ0526/Bayesian-Survival-Meta-Experimental-Design/assets/142708157/eecb4135-593a-4a55-b07a-9e8fb1c1d584)
